@@ -1,2 +1,0 @@
-#display output
-print("hello")
